@@ -22,10 +22,8 @@ Your privacy is important to us. Read our full privacy policy.
 
 ## 📬 Support
 
-For help, contact us at: **support@overfit.app**
+For help, contact us at: n.yerkinbekov@gmail.com
 
-Or reach out through GitHub Issues in our [official repository](https://github.com/YOUR_USERNAME/overfit-app-site).
 
----
 
 © 2025 Overfit. All rights reserved.
