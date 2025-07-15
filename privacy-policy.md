@@ -34,14 +34,14 @@ You can request to:
 - View or delete your personal data
 - Opt-out of data collection
 
-Contact us at **support@overfit.app**
+Contact us at n.yerkinbekov@gmail.com
 
 ---
 
 ## 5. Contact
 
 If you have questions about this policy, email us at:  
-**support@overfit.app**
+n.yerkinbekov@gmail.com
 
 ---
 
