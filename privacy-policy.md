@@ -2,7 +2,7 @@
 
 Effective date: July 15, 2025
 
-Overfit ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and disclosed when you use our mobile application.
+Overfit is committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and disclosed when you use our mobile application.
 
 ---
 
