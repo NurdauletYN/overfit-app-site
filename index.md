@@ -19,6 +19,10 @@ Welcome to the official website of Overfit — the AI-powered fitness coaching a
 Your privacy is important to us. Read our full privacy policy.
 
 ---
+## 📄 [Terms and Conditions](terms-conditions.md)
+
+Your Terms and Conditions is important to us. Read our full privacy policy.
+
 
 ## 📬 Support
 
