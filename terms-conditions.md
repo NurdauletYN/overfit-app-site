@@ -1,7 +1,7 @@
 Terms and Conditions
 Last updated: July 16, 2025
 
-Welcome to Overfit! These Terms and Conditions ("Terms") govern your use of the Overfit mobile application ("App") and website ("Service") operated by Overfit ("we", "us", or "our"). By accessing or using Overfit, you agree to be bound by these Terms.
+Welcome to Overfit! These Terms and Conditions ("Terms") govern your use of the Overfit mobile application  operated by Overfit. By accessing or using Overfit, you agree to be bound by these Terms.
 
 If you do not agree to these Terms, please do not use the App.
 
